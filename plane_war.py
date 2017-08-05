@@ -4,11 +4,6 @@ import pygame #导入pygame库
 import random
 from sys import exit #向sys模块借一个exit函数用来退出程序
 
-
-
-
-
-
 #定义一个Bullet类，封装子弹相关的数据和方法
 class Bullet:
 	def __init__(self):
